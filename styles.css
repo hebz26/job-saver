@@ -1,0 +1,57 @@
+
+*{
+    font-family: "Poppins", serif;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #556ee6;
+    margin-bottom: 12px;
+}
+
+button {
+    background: #556ee6;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #556ee6;
+    font-weight: 500;
+
+}
+
+#delete-btn {
+    background: white;
+    color: #556ee6;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #556ee6;
+}
+
+p {
+    color: #5e76ec;
+    margin-top: -12px;
+}
+
+h2{
+    color: #425ad0;
+}
+
+
